@@ -1,0 +1,7 @@
+com.example.bcsd06.test.app-core-1.5.0-0 C:\Users\user\.gradle\caches\transforms-3\9625a4369847c3660983c501a7b3626b\transformed\core-1.5.0\res
+com.example.bcsd06.test.app-annotation-experimental-1.3.0-1 C:\Users\user\.gradle\caches\transforms-3\9fae957ef0e1266a83e5188cb210102e\transformed\annotation-experimental-1.3.0\res
+com.example.bcsd06.test.app-androidTest-2 C:\Users\user\AndroidStudioProjects\BCSD06\app\build\generated\res\resValues\androidTest\debug
+com.example.bcsd06.test.app-androidTest-3 C:\Users\user\AndroidStudioProjects\BCSD06\app\build\generated\res\rs\androidTest\debug
+com.example.bcsd06.test.app-mergeDebugAndroidTestResources-4 C:\Users\user\AndroidStudioProjects\BCSD06\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.bcsd06.test.app-mergeDebugAndroidTestResources-5 C:\Users\user\AndroidStudioProjects\BCSD06\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.bcsd06.test.app-merged_res-6 C:\Users\user\AndroidStudioProjects\BCSD06\app\build\intermediates\merged_res\debugAndroidTest
